@@ -1,0 +1,1312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"price_title"
+			],
+			[
+				"re",
+				"region"
+			],
+			[
+				"cour",
+				"courier_local"
+			],
+			[
+				"CAT_GET",
+				"CAT_GET_OBJECTS_BY_CLASS_NAME"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"shipment",
+				"shipment_type"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"Con",
+				"ConstructURL"
+			],
+			[
+				"prod",
+				"prod_type"
+			],
+			[
+				"block",
+				"block_title"
+			],
+			[
+				"city_",
+				"city_name"
+			],
+			[
+				"city",
+				"city_hex"
+			],
+			[
+				"input",
+				"inputs"
+			],
+			[
+				"object",
+				"object_id"
+			],
+			[
+				"fet",
+				"fetchrow_hashref"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"appe",
+				"appendTo〔function〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"more",
+				"moreCnt"
+			],
+			[
+				"cre",
+				"createElement〔function〕"
+			],
+			[
+				"Bul",
+				"BuildHead"
+			],
+			[
+				"pric",
+				"prices"
+			],
+			[
+				"obj",
+				"object_name"
+			],
+			[
+				"CAT_",
+				"CAT_GET_OBJECT"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"FT",
+				"FTPConnect"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"prod_",
+				"prod_id"
+			],
+			[
+				"new",
+				"new_file_name"
+			],
+			[
+				"p",
+				"products"
+			],
+			[
+				"show",
+				"showItem"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"_",
+				"_ORDER"
+			],
+			[
+				"obejct",
+				"object_id"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"fe",
+				"fetchrow_hashref"
+			],
+			[
+				"add_",
+				"add_fragile_price"
+			],
+			[
+				"ma",
+				"make_map"
+			],
+			[
+				"sta",
+				"states"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"type",
+				"types_cache"
+			],
+			[
+				"GetP",
+				"GetParamValue"
+			],
+			[
+				"attr_",
+				"attr_name"
+			],
+			[
+				"prod_ty",
+				"prod_type_id"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ac",
+				"active_sort"
+			],
+			[
+				"url_",
+				"url_params"
+			],
+			[
+				"ut",
+				"Utils"
+			],
+			[
+				"nam",
+				"name_for_all"
+			],
+			[
+				"last",
+				"last_update"
+			],
+			[
+				"sub",
+				"subproject"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"use",
+				"use_publ_pos"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"CA",
+				"CANONICAL"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"_CA",
+				"_CAT_HEAP_INT"
+			],
+			[
+				"TITL",
+				"PAGE_TITLE"
+			],
+			[
+				"attr",
+				"attr_name"
+			],
+			[
+				"ca",
+				"can_index"
+			],
+			[
+				"filter",
+				"filter_id"
+			],
+			[
+				"value",
+				"value_id"
+			],
+			[
+				"ty",
+				"type_filters"
+			],
+			[
+				"stru",
+				"struct_obj"
+			],
+			[
+				"bas",
+				"base_href"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"ob",
+				"object_id"
+			],
+			[
+				"CAT",
+				"CAT_MEGAGET"
+			],
+			[
+				"_is",
+				"_is_group"
+			],
+			[
+				"struct",
+				"struct_group"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"is",
+				"isMobile"
+			],
+			[
+				"objec",
+				"object_id"
+			],
+			[
+				"is_",
+				"is_type"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"repea",
+				"repeat-y"
+			],
+			[
+				"limit",
+				"limit_rows"
+			],
+			[
+				"_getF",
+				"_getFaq"
+			],
+			[
+				"_SHOP",
+				"_SHOP_PRODUCTS"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"outer",
+				"outerWidth"
+			],
+			[
+				"CATG_ET",
+				"CAT_GET_OBJECT_BY_CLASS_NAME"
+			],
+			[
+				"bre",
+				"breadcrumbsCommon"
+			],
+			[
+				"brea",
+				"breadcrumbs"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"classMore",
+				"classMoreCnt"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"_get",
+				"_getCollections"
+			],
+			[
+				"oje",
+				"object_id"
+			],
+			[
+				"paym",
+				"payment-form"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"remove",
+				"removeClass  (function)"
+			],
+			[
+				"cabinet",
+				"cabinet_page"
+			],
+			[
+				"node",
+				"node_id"
+			],
+			[
+				"filter-res",
+				"filter-reset"
+			],
+			[
+				"loaded",
+				"loadedPages"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"load",
+				"loadData"
+			],
+			[
+				"pare",
+				"parentDom"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"pag",
+				"paginatorObject"
+			],
+			[
+				"horo",
+				"horoscope"
+			],
+			[
+				"e",
+				"enough"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"set",
+				"setCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "simple/settings.py",
+			"settings":
+			{
+				"buffer_size": 3387,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "simple/urls.py",
+			"settings":
+			{
+				"buffer_size": 841,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "checker/views.py",
+			"settings":
+			{
+				"buffer_size": 2540,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "checker/templates/checker/home.html",
+			"settings":
+			{
+				"buffer_size": 1143,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/ExcelParser.py",
+			"settings":
+			{
+				"buffer_size": 5324,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "checker/forms.py",
+			"settings":
+			{
+				"buffer_size": 2497,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "simple/__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: $.trim"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 430.0,
+		"history":
+		[
+			"sublime.log_indexing(True)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/andrey/projects/analitic/simple",
+		"/home/andrey/projects/analitic/simple/checker",
+		"/home/andrey/projects/analitic/simple/checker/templates",
+		"/home/andrey/projects/analitic/simple/checker/templates/checker",
+		"/home/andrey/projects/analitic/simple/lib",
+		"/home/andrey/projects/analitic/simple/simple",
+		"/home/andrey/projects/analitic/simple/templates",
+		"/home/andrey/projects/analitic/simple/templates/includes"
+	],
+	"file_history":
+	[
+		"/home/andrey/projects/analitic/simple/templates/site_frame.html",
+		"/home/andrey/projects/analitic/simple/templates/includes/head.html",
+		"/home/andrey/projects/analitic/app/lib/ExcelParser.py",
+		"/home/andrey/projects/analitic/app/test_parser.py",
+		"/home/andrey/servers/hot/usr/local/flexites/projects_ext/galeon/orderman/common/lib/test_parser.py",
+		"/home/andrey/servers/hot/usr/local/flexites/projects_ext/galeon/orderman/orders/shop/views.py",
+		"/home/andrey/servers/hot/usr/local/flexites/projects_ext/galeon/orderman/common/lib/ExcelParser.py",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/admin/js/fileselector/dialog.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/admin/js/object.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/gulpfile.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/site_frame.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/basket.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/__site__.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/foot.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/footer.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/checkout_frame.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/head.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/prod_type.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/dblib/Tools.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/dblib/Goods.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/classes/product.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/main.js",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/SQL4Services/Secure.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/dblib/Users.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/actions/auth.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/User.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lavka_coffee_tea.sublime-project",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/build.xml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/empty_frame.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/dev/head.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/cabinet_frame.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/head_cabinet.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/head_checkout.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/dev/head_checkout.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/dev/head_cabinet.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/actions/json.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/proj/userform.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/actions/index.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/checkout/info.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/actions/oa.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/dblib/Order.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/ShipmentParser.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/Order/Checkout.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/order.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/scripts/export.pl",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/scripts/migrate/password_reset.pl",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/registration_page.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/Utils.pm",
+		"/home/andrey/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/BaseImport/Image.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/Order/OrderItem.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Engine/Mailer.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/order/basket.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/checkout.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/article_cat.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/PaymentSystems/Sberbank.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/PaymentSystems.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/actions/sberbank.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/article_group.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/Order/Shipment.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/proj.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/proj/products.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/Order.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/css/interfaces.css",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/order/basket_buttons.js",
+		"/home/andrey/servers/mario/usr/local/flexites/projects/mm/lib/Order/OrderItem.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/css/checkout.css",
+		"/home/andrey/servers/mario/usr/local/flexites/projects/mm/lib/ShipmentParser.pm",
+		"/home/andrey/servers/mario/usr/local/flexites/projects/mm/handlers/Objects.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Engine/Xslate/Functions.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Engine/Helpers.pm",
+		"/home/andrey/servers/mario/usr/local/flexites/lib/Engine/Helpers.pm",
+		"/home/andrey/servers/mario/usr/local/flexites/lib/Engine/Element/Param.pm",
+		"/home/andrey/servers/mario/usr/local/flexites/lib/Engine/SysUtils.pm",
+		"/home/andrey/servers/mario/usr/local/flexites/lib/Engine/Xslate/Functions.pm",
+		"/home/andrey/servers/mario/usr/local/flexites/lib/Engine/Helpers/InputTextarea.pm",
+		"/home/andrey/servers/mario/usr/local/flexites/lib/Engine/Helpers/InputText.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Engine/SysUtils.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Actions/index.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Engine/Application.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/PriceExport.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/PriceExport2.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/scripts/price_make2.pl",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/cabinet_page.pm",
+		"/run/user/1000/gvfs/smb-share:server=mario,share=common/Clients/1 DOM KZ/Продвижение/Доступы/Доступ к админке.txt",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/handlers/Objects.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/city_cat.pm",
+		"/home/andrey/Desktop/modamama/new.xml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/blocks/cities.tx",
+		"/home/andrey/Desktop/modamama/groups.xml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/BaseImport2.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/BaseImport/Log.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Engine/CGI.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Engine/Session.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/classes/city.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/XML/cities.xml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/scripts/trash/get_cities.pl",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/dblib/CitiesSeo.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/admin/backoffice.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/Cities/admin/cities.xhtml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/Cities/admin/list.xhtml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/scripts/import.pl",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/handlers/Products.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/crontab",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/BaseImport/Parser2.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/css/common.css",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/BaseExport.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/blocks/right_col.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/js/proj/horoscope.js",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/classes/horoscope_page.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/horoscope_page.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/css/layout.css",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/controllers/home_page.pm",
+		"/home/andrey/Desktop/ssh_log.txt",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/lib/Order/Basket.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/includes/blocks/left_col.tx",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/Products/admin/prod_all.xhtml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/Products/admin/category.xhtml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/Products/admin/collection_all.xhtml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/Products/includes/prod_item.xhtml",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/widget.xhtml",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/Engine/Action.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/actions/widget.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/templates/xslate/widget.tx",
+		"/home/andrey/servers/mario/usr/local/flexites/lib/Engine/Application.pm",
+		"/home/andrey/servers/mario/usr/local/flexites/lib/Engine/CGI.pm",
+		"/home/andrey/servers/hot/usr/local/flexites/projects/lavka_coffee_tea/scripts/mailer.pl",
+		"/home/andrey/servers/hot/usr/local/flexites/lib/SQL4Services/Subscribe.pm"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"OrdersParser",
+			"LAVKA_PROD_PRODUCT_GET_PRODUCTS_FILTERED",
+			"GetFilters",
+			"\" />",
+			"<file name=\"",
+			"\"></script>",
+			"<script type=\"text/javascript\" src=\"/js/",
+			"\"></script>",
+			"<script type=\"text/javascript\" src=\"",
+			"\"></script>",
+			"<script type=\"text/javascript\" src=\"/js/",
+			"\" />",
+			"<file name=\"",
+			"\" />",
+			"<file name=\"",
+			"\" />",
+			"<file name=\"",
+			"exec",
+			"USERS_GET_ALL_USERS",
+			"PASS",
+			"ConstructCanonicalRel",
+			"canoni",
+			"HasSort",
+			"HAS_SORT",
+			"GetSortParams",
+			"getCount",
+			"$remove",
+			"remove",
+			"CityTemp",
+			"shipment-city",
+			"INDEX",
+			"page",
+			"GetParams",
+			"Status",
+			"node_id",
+			"ConstructCanonicalRel",
+			"Canonical",
+			"SELECT \n                    `o`.`id` AS `order_id`,\n                    `o`.`tender_id` AS `tender_id`,\n                    `o`.`vendor_id` AS `vendor_id`,\n                    `v`.`name` AS `vendor_name`,\n                    DATE_FORMAT(`o`.`addition_date`, '%d.%m.%Y %H:%i') AS `addition_date`,\n                    `o`.`currency_unit` AS `currency_unit`,\n                    `o`.`payment_condition` AS `payment_condition`,",
+			"LAVKA_PROD_GET_ATTR_VALUES",
+			"GetFilters",
+			"FORMATS",
+			"City",
+			"Clear",
+			"slink",
+			"SLINK",
+			"CITIES_SEO_GET_UNIQUE_CITIES",
+			"_SHOP_CITIES_SEO",
+			"_UpdateCitiesJSONFile",
+			".faq_block",
+			"GetBanners",
+			"GetBasketItems",
+			"/$",
+			"/\\s+/",
+			"^/",
+			"http://lavka-coffee-tea.ru",
+			"ProcessGoods",
+			"ProcessGoodsProcessGoods",
+			"List::MoreUtils",
+			"_PARAM_REQUEST",
+			"params_request",
+			"ConstructURL",
+			"LAVKA_PROD_PRODUCT_GET_PRODUCTS",
+			"CAT_SET_OBJECT_ATTR",
+			"Footer",
+			"_getFooter",
+			"_getTopMenu",
+			"Reload",
+			"IsMerchant",
+			"commit_payment_type",
+			"App",
+			"SetUID",
+			"lavka_coffee_tea::lib::User",
+			"GenerateClientID",
+			"cookie",
+			"ClientID",
+			"Client",
+			"GenerateSessionID",
+			"SessionID",
+			"SessionHash",
+			"Reload",
+			"Load",
+			".home-page-types .home-page-types-line",
+			".body-middle .home-page-types",
+			".body-middle .home-page-types .home-page-types-line .hpt-ite",
+			"_getProductsMenu",
+			"USER_SETTINGS_SAVE",
+			"HTTP_SESSION_SAVE",
+			"ProcessStatus",
+			"UDC_GET_RECUSRIVE_TITLES",
+			"_PROD_NAME",
+			"_getProduct",
+			"LAVKA_PROD_COLLECTION_CHANGE_PUBLICATION",
+			"ORDER_SHIPMENT_GET_CITIES",
+			"TranslitName",
+			"md5_h",
+			"_UpdateCitiesJSONFile",
+			"OrderIte",
+			"ParseStatus",
+			"ProcessAttr",
+			"ConstructURL",
+			"GetProducts",
+			"UpdateStructureObject",
+			"sub ProcessAttrs",
+			"ParseFile",
+			"Step",
+			"_getPersonalCab",
+			"getCabinetMenu",
+			"_getProductsList",
+			"Clear",
+			"ProcessCertificates",
+			"GetFilters",
+			"Render",
+			"sub SendEmailToManager",
+			"ыги SendEmailToManager",
+			"SendEmailToManager",
+			"objName",
+			"LAVKA_PROD_PRODUCT_GET_PRODUCTS",
+			"ProcessAttrs",
+			"LAVKA_PROD_PRODUCT_HIT_FILTERS",
+			"GetFilters",
+			"_getTopMenu",
+			"$.extend({ from",
+			"warning-text",
+			".user-products .user-products-table tbody td",
+			"prod-page-link",
+			"goods-table",
+			"GetProduct",
+			"LAVKA_PROD_PRODUCT_GE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"',",
+			"'",
+			"',",
+			"'",
+			"',",
+			"'",
+			"',",
+			"'",
+			"',",
+			"'",
+			"',",
+			"'",
+			"',",
+			"",
+			"/ permanent;",
+			"/)$ /",
+			")$ /",
+			"rewrite ^(/",
+			"",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"/ permanent;",
+			"/)$ ",
+			"/ permanent;",
+			")$ ",
+			"rewrite ^(",
+			"<br />",
+			"<br/>",
+			"/ permanent;",
+			"/)$ /",
+			"/)$ / ",
+			"/)$ ",
+			"rewrite ^(/",
+			"rewrite ^/",
+			"rewrite /",
+			"",
+			"rewrite /",
+			"",
+			"Proj",
+			"lavka_coffee_tea",
+			"Proj",
+			" permanent;\\n",
+			")$ ",
+			"rewrite ^(",
+			"Proj",
+			"_EDC_",
+			"goods_hash",
+			"lavka_coffee_tea",
+			"/i/p/themes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "simple/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3386,
+								3386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "simple/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								812,
+								812
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "checker/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 602.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "checker/templates/checker/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								772,
+								772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/ExcelParser.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1991,
+								1991
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 896.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "checker/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1554,
+								1554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "simple/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 191.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 178.0
+	},
+	"pinned_build_system": "Packages/User/SJAnt.sublime-build",
+	"project": "simple.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/servers/floyd/usr/local/flexites/projects/tasty_shop/tasty-shop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

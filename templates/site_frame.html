@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="ru-RU">
+<head>
+    {% include "includes/head.html" %}
+</head>
+<body{% if interface_name %} data-interface-name="{{ interface_name }}"{% endif %}>
+    <div class="main" id="main">
+        <section id="center">
+                {% block center %}{% endblock %}
+        </section>
+        <div class="sidebar-bg"></div>
+    </div>
+    <footer id="footer">
+
+    </footer>
+
+</body>
+</html>

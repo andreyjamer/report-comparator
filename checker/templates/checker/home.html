@@ -1,0 +1,33 @@
+{% extends 'site_frame.html' %}
+{% block center %}
+    {% load crispy_forms_tags %}
+    <div class="container-fluid">
+        <div class="row">
+            <h1 class="col-xs-12">Импорт заказов</h1>
+        </div>
+        {% if exit_data %}
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            {% for item in exit_data %}
+                                <div>
+                                    {{ item.0 }}: {{ item.1 }} ряд: {{ item.2 }} <strong>№ {{ item.3 }}</strong> - {{ item.4 }}
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        {% crispy form %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
