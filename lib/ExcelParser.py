@@ -35,10 +35,14 @@ class DataParser(ExcelParserCommon):
     def parse_file(self, **kwargs):
         self.parse_excel(**kwargs)
         if self.workbook is not None:
-            worksheet = self.workbook.sheet_by_index(0)
+            
 
             result = []
             data = {}
+
+            sheet_number = 0
+            if 'sheet_number' in kwargs.keys():
+                sheet_number = kwargs['sheet_number']
 
             start_row = 1
             if 'start_row' in kwargs.keys():
@@ -51,6 +55,8 @@ class DataParser(ExcelParserCommon):
             price_col = None
             if 'price_col' in kwargs.keys():
                 price_col = kwargs['price_col']
+
+            worksheet = self.workbook.sheet_by_index(sheet_number)
 
             # Получаем максимальные значения рядов и колонок
             max_rows = worksheet.nrows
@@ -78,12 +84,19 @@ class DataParser(ExcelParserCommon):
                         clean_price = int((float(cell_value) * 100) + 0.5) / 100
 
                 if clean_number is not None and clean_price is not None:
-                    # print(row_number, '!!', str(clean_number), clean_price)
-                    data[clean_number] = {
-                        'row': row_number,
-                        'number': number,
-                        'price': clean_price
-                    }
+                    if clean_number in data.keys():
+                        data[clean_number]['doubles'].append({
+                                'row': row_number,
+                                'number': number,
+                                'price': clean_price,
+                            })
+                    else:
+                        data[clean_number] = {
+                            'row': row_number,
+                            'number': number,
+                            'price': clean_price,
+                            'doubles': []
+                        }
 
         return data
 
@@ -133,6 +146,10 @@ class Comparator(object):
             if can_append:
                 result.append([d_type, self.source[key]['row'], self.source[key]['number'], result_string])
 
+            if len(self.source[key]['doubles']) > 0:
+                for item in self.source[key]['doubles']:
+                    result.append([d_type, item['row'], item['number'], 'Дублирование накладной'])
+
             checked.append(key)
 
         d_type = 'Их'
@@ -142,5 +159,10 @@ class Comparator(object):
                 result_string = 'Отсутсвует в нашем файле'
                 result.append([d_type, self.compare[key]['row'], self.compare[key]['number'], result_string])
                 checked.append(key)
+            
+            if len(self.compare[key]['doubles']) > 0:
+                for item in self.compare[key]['doubles']:
+                    result.append([d_type, item['row'], item['number'], 'Дублирование накладной'])
+
 
         return result

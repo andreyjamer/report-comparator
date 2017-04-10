@@ -44,11 +44,13 @@ class Main(TemplateView):
             parser = DataParser()
             data = form.cleaned_data
             source_data = parser.parse_file(excelContent=source_file.read(),
+                                            sheet_number=data['source_sheet_number']-1,
                                             start_row=data['source_start_row']-1,
                                             number_col=data['source_number_col']-1,
                                             price_col=data['source_price_col']-1)
 
             compare_data = parser.parse_file(excelContent=compare_file.read(),
+                                             sheet_number=data['compare_sheet_number']-1,
                                              start_row=data['compare_start_row']-1,
                                              number_col=data['compare_number_col']-1,
                                              price_col=data['compare_price_col']-1)

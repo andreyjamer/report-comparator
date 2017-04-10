@@ -9,6 +9,10 @@ from crispy_forms.layout import Layout, Submit, Field, Div, HTML, Hidden
 
 class FileUploadedForm(forms.Form):
     source_file = forms.FileField(label='Загрузите файл сверки', required=True)
+    source_sheet_number = forms.IntegerField(label='Лист книги',
+                                          required=True,
+                                          min_value=1)
+
     source_start_row = forms.IntegerField(label='Ряд начала данных',
                                           required=True,
                                           min_value=1)
@@ -21,6 +25,10 @@ class FileUploadedForm(forms.Form):
 
     compare_file = forms.FileField(label='Загрузите файл контрагентов',
                                    required=True)
+    compare_sheet_number = forms.IntegerField(label='Лист книги',
+                                              required=True,
+                                              min_value=1)
+
     compare_start_row = forms.IntegerField(label='Ряд начала данных',
                                            required=True,
                                            min_value=1)
@@ -43,6 +51,7 @@ class FileUploadedForm(forms.Form):
             Div(
                 Div(
                     Field('source_file'),
+                    Field('source_sheet_number'),
                     Field('source_start_row'),
                     Field('source_number_col'),
                     Field('source_price_col'),
@@ -52,6 +61,7 @@ class FileUploadedForm(forms.Form):
 
                 Div(
                     Field('compare_file'),
+                    Field('compare_sheet_number'),
                     Field('compare_start_row'),
                     Field('compare_number_col'),
                     Field('compare_price_col'),
